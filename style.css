@@ -1,0 +1,28 @@
+body{
+    background-color: violet;
+
+}
+
+h1{
+    color: white;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+     padding: 10px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: gray;
+     box-sizing: border-box;
+}
+/*# sourceMappingURL=style.css.map */
